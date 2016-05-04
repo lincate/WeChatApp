@@ -1,0 +1,24 @@
+{
+  "button":[
+    {
+      "name":"Donate",
+      "sub_button":[
+        {
+          "type": "click",
+          "name": "Donate",
+          "key": "DONATE_SUB_DONATE"
+        },
+        {
+          "type": "click",
+          "name": "Donate",
+          "key": "DONATE_SUB_FUND"
+        }
+      ]
+    },
+    {
+      "type": "view",
+      "name": "Agile",
+      "key": "AGILE"
+    }
+  ]
+}
